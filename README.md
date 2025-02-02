@@ -7,7 +7,7 @@ This repository contains the MATLAB script **TripleOxygenBayes.m**, which implem
 
 The script is associated with the paper:
 
-**Hare, V.J., Yarian, D.A., Faith, J.T., Harris, C., Lee-Thorp, J.A., Passey, B.H., Sokolowski, K.G., & Ségalen, L. (2025). Triple oxygen isotopes in eggshell carbonate as a proxy of late Cenozoic CO₂ and primary productivity. *Geochimica et Cosmochimica Acta*.**
+**Hare, V.J., Yarian, D.A., Faith, J.T., Harris, C., Lee-Thorp, J.A., Passey, B.H., Sokolowski, K.G., & Ségalen, L. (2025). Triple oxygen isotopes in eggshell carbonate as a proxy of late Cenozoic CO₂ and primary productivity. *under review*.**
 
 ## Features
 - Implements Bayesian parameter estimation using the MCMC toolbox for MATLAB.
@@ -71,7 +71,7 @@ The results can be used to:
 ## Citation
 If you use this script in your research, please cite:
 
-Hare, V.J., Yarian, D.A., Faith, J.T., Harris, C., Lee-Thorp, J.A., Passey, B.H., Sokolowski, K.G., & Ségalen, L. (2025). Triple oxygen isotopes in eggshell carbonate as a proxy of late Cenozoic CO₂ and primary productivity. *Geochimica et Cosmochimica Acta*.
+Hare, V.J., Yarian, D.A., Faith, J.T., Harris, C., Lee-Thorp, J.A., Passey, B.H., Sokolowski, K.G., & Ségalen, L. (2025). Triple oxygen isotopes in eggshell carbonate as a proxy of late Cenozoic CO₂ and primary productivity. *Under review*.
 
 ## License
 This code is provided under the MIT License. See `LICENSE` for details.
