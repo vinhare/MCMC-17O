@@ -80,6 +80,9 @@ The results can be used to:
 - Understand physiological and environmental factors influencing isotope ratios.
 - Compare fossil eggshell isotope signatures with modern analogues.
 
+## IMPORTANT NOTE!
+The code here is optimised for ratites. If you are going to apply this to other animals, you will need to spend some time properly setting up the priors for that particular species, including (but not limited to) different body mass, and potentially also different priors for δ18Omw, WEI, rl/s, etc. To help with convergence, you may also find it useful to modify the range of RH values to a tigher range, informed by your study area. You may also find it more useful to solve for f_H20-in-food
+ 
 ## Citation
 If you use this script in your research, please cite:
 
