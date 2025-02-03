@@ -1,6 +1,6 @@
 # MCMC-17O
 
-# TripleOxygenBayes: Bayesian MCMC for Triple Oxygen Isotope Parameter Estimation
+# Bayesian MCMC for Triple Oxygen Isotope Parameter Estimation
 
 ## Overview
 This repository contains the MATLAB script **TripleOxygenBayes.m**, which implements a Bayesian Markov Chain Monte Carlo (MCMC) approach for estimating parameters related to the triple oxygen isotope composition of biominerals, specifically ratite eggshells. The methodology is based on Bayesian inference to model the isotopic fractionation processes affecting body water composition, providing insights into past CO₂ levels and global primary productivity (GPP).
