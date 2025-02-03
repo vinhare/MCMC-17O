@@ -68,11 +68,11 @@ For the Central Namib (Modern) dataset, and example of the Parameter correlation
 
 With the posterior density estimates:
 
-![posterior pdfs](https://github.com/user-attachments/assets/c846a0d1-d52c-4991-8d1f-f146f255fddf)
+!<img src="https://github.com/user-attachments/assets/c846a0d1-d52c-4991-8d1f-f146f255fddf" width="600">
 
 And finally, the "best fit" model, using the posterior parameters.
 
-![model](https://github.com/user-attachments/assets/b712231d-01b4-41a7-8e9f-8b7aacab52c5) 
+<img src="https://github.com/user-attachments/assets/b712231d-01b4-41a7-8e9f-8b7aacab52c5" width="600">
 
 ## Interpretation
 The results can be used to:
