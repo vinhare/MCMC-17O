@@ -64,7 +64,7 @@ The script produces:
 
 For the Central Namib (Modern) dataset, and example of the Parameter correlation scatter plots is shown below:
   
-<img src="https://github.com/user-attachments/assets/8263a360-64fb-4ed7-946b-94ffa32c20fc" width="200">
+<img src="https://github.com/user-attachments/assets/8263a360-64fb-4ed7-946b-94ffa32c20fc" width="600">
 
 With the posterior density estimates:
 
