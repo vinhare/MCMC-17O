@@ -22,7 +22,7 @@ clear all; %data model params options final_D17O fval A B C AllAs AllBs
  
 close all;
 
-load TripleO_Central_Quaternary.mat % a .mat file with data.ydata, data.xdata
+load TripleO_Central_Modern.mat % a .mat file with data.ydata, data.xdata
 %data=Central_LateMiocene.data;
 
 tmin = [-0.434 -4.0 0.5 0.75 0.17 24.046]; %initial guess for theta
