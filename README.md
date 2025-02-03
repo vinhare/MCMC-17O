@@ -62,6 +62,18 @@ The script produces:
   - Parameter correlation scatter plots.
 - **Final estimated atmospheric Δ'¹⁷O and uncertainty**, computed using bootstrapping.
 
+For the Central Namib (Modern) dataset, and example of the Parameter correlation scatter plots is shown below:
+  
+![joint_posterior](https://github.com/user-attachments/assets/8263a360-64fb-4ed7-946b-94ffa32c20fc)
+
+With the posterior density estimates:
+
+![posterior pdfs](https://github.com/user-attachments/assets/c846a0d1-d52c-4991-8d1f-f146f255fddf)
+
+And finally, the "best fit" model, using the posterior parameters.
+
+![model](https://github.com/user-attachments/assets/b712231d-01b4-41a7-8e9f-8b7aacab52c5)
+
 ## Interpretation
 The results can be used to:
 - Infer past **CO₂** levels and **GPP** using Bayesian inverse modeling.
