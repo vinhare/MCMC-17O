@@ -81,7 +81,7 @@ The results can be used to:
 - Compare fossil eggshell isotope signatures with modern analogues.
 
 ## IMPORTANT NOTE!
-The code here is optimised for ratites. If you are going to apply this to other animals, you will need to spend some time properly setting up the priors for that particular species, including (but not limited to) different body mass, and potentially also different priors for δ18Omw, WEI, rl/s, etc. To help with convergence, you may also find it useful to modify the range of RH values to a tigher range, informed by your study area. You may also find it more useful to solve for f_H20-in-food
+The code here is optimised for ratites. If you are going to apply this to other animals, you will need to spend some time properly setting up the priors for that particular species, including (but not limited to) different body mass, and potentially also different priors for δ18Omw, WEI, rl/s, etc. To help with convergence, you may also find it useful to modify the range of RH values to a tigher range, informed by your study area. For animals that are taking in more meteoric water, you may also find it more useful to solve for f_H20-in-food, rather than rl/s, by modifying the scripts appropriately. In my experience, one can solve for either, but not both together (as they are strongly covariant). 
  
 ## Citation
 If you use this script in your research, please cite:
