@@ -34,7 +34,7 @@ The script requires a dataset in MATLAB `.mat` format with the following structu
 - `data.xdata`: Measured **δ'¹⁸O_bw** values (per mil)
 - `data.yerr`: Uncertainty in **Δ'¹⁷O_bw** (1σ standard deviation)
 
-Example dataset: `TripleO_Central_Quaternary.mat`
+Example dataset: `TripleO_Central_Modern.mat`
 
 ## Parameter Definitions
 The model parameters estimated using MCMC are:
