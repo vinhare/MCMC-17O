@@ -7,7 +7,7 @@ This repository contains the MATLAB script **TripleOxygenBayes.m**, which implem
 
 The script is associated with the paper:
 
-**Hare, V.J., Yarian, D.A., Faith, J.T., Harris, C., Lee-Thorp, J.A., Passey, B.H., Sokolowski, K.G., & Ségalen, L. (2025). Triple oxygen isotopes in eggshell carbonate as a proxy of late Cenozoic CO₂ and primary productivity. *under review*.**
+**Hare, V.J., Yarian, D.A., Faith, J.T., Harris, C., Lee-Thorp, J.A., Passey, B.H., Sokolowski, K.G., & Ségalen, L. (2025). Triple oxygen isotopes in eggshell carbonate as a proxy of late Cenozoic CO₂ and primary productivity. *Geochimica et Cosmochimica Acta*.**
 
 ## Features
 - Implements Bayesian parameter estimation using the MCMC toolbox for MATLAB.
