@@ -22,7 +22,7 @@ This script requires the following MATLAB toolboxes and external functions:
 - **MCMC toolbox** by Marko Laine: [https://mjlaine.github.io/mcmcstat/](https://mjlaine.github.io/mcmcstat/)
 - **DERIVESTsuite** for numerical differentiation.
 
-### External Functions (included in the repository or must be provided by the user):
+### External Functions (included in the repository, must be placed by the user in their working directory):
 - `BWM_Emu_st.m`
 - `TripleOxygenss.m`
 - `Body_Water_Model_rh.m`
@@ -86,7 +86,7 @@ The code here is optimised for ratites. If you are going to apply this to other 
 ## Citation
 If you use this script in your research, please cite:
 
-Hare, V.J., Yarian, D.A., Faith, J.T., Harris, C., Lee-Thorp, J.A., Passey, B.H., Sokolowski, K.G., & Ségalen, L. (2025). Triple oxygen isotopes in eggshell carbonate as a proxy of late Cenozoic CO₂ and primary productivity. *Under review*.
+Hare, V.J., Yarian, D.A., Faith, J.T., Harris, C., Lee-Thorp, J.A., Passey, B.H., Sokolowski, K.G., & Ségalen, L. (2025). Triple oxygen isotopes in eggshell carbonate as a proxy of late Cenozoic CO₂ and primary productivity. *Geochimica et Cosmochimica Acta*.
 
 ## License
 This code is provided under the MIT License. See `LICENSE` for details.
