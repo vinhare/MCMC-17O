@@ -28,7 +28,7 @@ This script requires the following MATLAB toolboxes and external functions:
 - `Body_Water_Model_rh.m`
 - `SS_over_rh.m`
 - `alpha1.m`
-- `alpjha2.m`
+- `alpha2.m`
 
 (Future versions of this will simplify this code. Stay tuned!)
 
