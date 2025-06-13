@@ -27,8 +27,8 @@ This script requires the following MATLAB toolboxes and external functions:
 - `TripleOxygenss.m`
 - `Body_Water_Model_rh.m`
 - `SS_over_rh.m`
-- `alpha1.m'
-- `alpjha2.m'
+- `alpha1.m`
+- `alpjha2.m`
 
 (Future versions of this will simplify this code. Stay tuned!)
 
