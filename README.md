@@ -20,6 +20,8 @@ This script requires the following MATLAB toolboxes and external functions:
 
 ### Required MATLAB Toolboxes:
 - **MCMC toolbox** by Marko Laine: [https://mjlaine.github.io/mcmcstat/](https://mjlaine.github.io/mcmcstat/)
+
+### Recommended MATLAB Toolboxes:
 - **DERIVESTsuite** for numerical differentiation.
 
 ### External Functions (included in the repository, must be placed by the user in their working directory):
